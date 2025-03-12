@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        h2{text-align: center;
+        font-family: 'Times New Roman', Times, serif;}
+        table {
+  font-family: 'Times New Roman', Times, serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #ffffff;
+  
+}
+</style>
+</head>
+<body>
+
+    <h2>Subcribe</h2>
+
+    <table>
+      <tr>
+        <th>PRINT</th>
+        <th>DIGITAL</th>
+        <th>BEST SELLER</TH>
+    
+        
+      </tr>
+      <tr>
+        <td>Print Edition</td>
+        <td>Digital edition</td>
+        <td>Subcribe to other magazines</td>
+      </tr>
+      <tr>
+        <td>Doorstep Delivery</td>
+        <td>Access to archive </td>
+        <td>Great value deals</td>
+      </tr>
+      <tr>
+        <td>Publish by monthly</td>
+        <td>Read on the go</td>
+        <td>Yearly sucription offers</td>
+      </tr>
+      <tr>
+        <td>Start with the Current Issue</td>
+        <td>Unlimited access, anytime, anywhere</td>
+        <td>Doorstep delivery</td>
+      </tr>
+      <tr>
+        <td>Rs/- 999</td>
+        <td>Rs/- 900</td>
+        <td>Rs/- 2999</td>
+      </tr>
+    </table>
+    
+    </body>
+    </html>
